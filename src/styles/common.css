@@ -1,0 +1,14 @@
+*{margin: 0;padding: 0;}
+h1, h2 {font-weight: normal;}
+ul {
+  list-style-type: none;
+  clear:both;
+  overflow:hidden;
+  width: 100%;
+}
+ul, li {list-style:none;}
+a {margin: 0;}
+.flex{display: flex;}
+.al_ct{align-items: center;}
+.ju_sa{justify-content: space-around;}
+.ju_sb{justify-content: space-between;}
